@@ -17,5 +17,9 @@ As an example of multiple filters being chosen, the image below shows results fr
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/90944163/158636156-055a0038-5906-4898-979e-523c7a4e90b4.png">
 
 ## Summary
-The filter on the webpage does work; however, filter criteria must be entered very specifically and will only match the exact capitalization or spelling of the data being filtered.  This means that if "NC" or "North Carolina" is entered instead of "nc" while searching by the state, no results will be returned.  It is recommended that the filters be updated or "loosened" somewhat to allow for capitalization of entered data for city, state, country and shape, as well as allowing for the full names of states/countries.  Alternatively, instructions could be added to the web page to specify exactly how search criteria should be entered (date format, spelling/capitalization, etc.).  The data could also be cleaned/reformatted to capitalize states/countries/cities as these are most often in a propercase format. 
+The filter on the webpage does work; however, filter criteria must be entered very specifically and will only match the exact capitalization or spelling of the data being filtered.  This means that if "NC" or "North Carolina" is entered instead of "nc" while searching by the state, no results will be returned.  
+
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/90944163/158638258-617f0988-1efa-4d94-bf6a-182d42e11ac2.png">
+
+It is recommended that the filters be updated or "loosened" somewhat to allow for capitalization of entered data for city, state, country and shape, as well as allowing for the full names of states/countries.  Alternatively, instructions could be added to the web page to specify exactly how search criteria should be entered (date format, spelling/capitalization, etc.).  The data could also be cleaned/reformatted to capitalize states/countries/cities as these are most often in a propercase format. Another recommendation to improve the webpage would be the addition of a "clear filters" button for new searches.  
  
